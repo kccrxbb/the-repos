@@ -1,0 +1,56 @@
+body{background-color: rgb(49, 46, 46); font-size:16px;}
+
+p{background-color: black; color: red;}
+
+h1{background-color: black; color: red;}
+h2{background-color: black; color: red;}
+
+div{color: red;}
+li{background-color: black; color: red;}
+
+h1{
+  font-family: "Lucida Console", monospace;
+  border-style: double;
+  border-width: thick;
+}
+
+h2{
+  font-family: "Lucida Console", monospace;
+  border-style: double;
+  border-width: thin;
+}
+
+p{
+  font-family: "Lucida Console", monospace;
+  border-style: double;
+  border-width: thin;
+}
+
+li{
+  font-family: "Lucida Console", monospace;
+  border-style: solid;
+  border-width: thin;
+}
+
+img{
+	border-style: double;
+	border-width: thick;
+}
+
+.form-control-dark {
+  border-color: var(--bs-gray);
+}
+.form-control-dark:focus {
+  border-color: #fff;
+  box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+}
+
+.text-small {
+  font-size: 85%;
+}
+
+.dropdown-toggle {
+  outline: 0;
+}
+
+
